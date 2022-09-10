@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
     String phone="";
     String gmail="";
     String imageurl="";
+    String mansur="Negap";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
