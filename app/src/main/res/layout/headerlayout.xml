@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    tools:ignore="MissingDefaultResource">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:src="#24608F"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></ImageView>
+    <LinearLayout
+        android:layout_margin="15dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profileimage"
+            android:src="@drawable/russia"
+            android:layout_width="70dp"
+            android:layout_height="70dp"></de.hdodenhof.circleimageview.CircleImageView>
+        <TextView
+           android:id="@+id/username"
+            android:textSize="25dp"
+            android:text="Username"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></TextView>
+        <TextView
+            android:id="@+id/emailandphone"
+            android:text="putin@gmail.com"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></TextView>
+
+
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>

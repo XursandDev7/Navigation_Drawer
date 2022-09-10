@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279912614401",
+    "project_id": "navigation-drawer-164d3",
+    "storage_bucket": "navigation-drawer-164d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279912614401:android:0755d70004e26d50818e00",
+        "android_client_info": {
+          "package_name": "com.astro.navigation_drawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279912614401-0gfetil0k04vdc8bjm2sfdukj2o2jlav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2Urex4Op_Co19-hu1qLKZByPRndIgPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279912614401-0gfetil0k04vdc8bjm2sfdukj2o2jlav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
