@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
     String gmail="";
     String imageurl="";
     String mansur="Negap";
+    String laugh="axaxaxa";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
